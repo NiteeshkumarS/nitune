@@ -1,0 +1,126 @@
+.header{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(73, 66, 66);
+}
+body{
+    margin: 0;
+}
+.logo{
+    width: 50%;
+    height: 55px;
+    padding: 10px;
+    float: left;
+    margin-top: 31px;
+}
+.logotext{
+    color: #dedada;
+    margin-left: 128px;
+    font-size: 50px;
+    text-decoration: none;
+    font-family: monospace;
+    font-weight: bold;
+}
+.login{
+    width: 45%;
+    height: 79px;
+    float: left;
+    margin-top: 35px;
+    margin-left: 20px;
+}
+.logbutton{
+    width: 9%;
+    float: left;
+    height: 24px;
+    margin-top: 6px;
+    margin-left: 436px;
+    border-radius: 9px;
+    background-color: #692727;
+    border-color: gray;
+    color: #fff;
+    cursor: pointer;
+}
+.logbutton:hover{
+    background-color: rgb(124, 73, 73);
+}
+.subheader{
+    width: 100%;
+    height: 43px;
+    background-color: black;
+}
+.subbutton{
+    width: 112px;
+    height: 20px;
+    margin-left: 28px;
+    border-radius: 24px;
+    background-color: #5a5555;
+    color: #efe6e6;
+    cursor: pointer;
+    border-color: #c5abab;
+    font-weight: bold
+}
+.subbutton:hover{
+    background-color: rgb(51, 48, 48);
+}
+.mainbody{
+    width: 100%;
+    height:800px;
+    background-image: url("OIP5UJZ2D89.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 1px;
+}
+.content{
+    width:33%;
+    height:400px;
+    float: left;
+}
+.display{
+    width: 314px;
+    height: 300px;
+    margin-left: 81px;
+    margin-top: 65px;
+    float: left;
+    border-radius: 28px;
+    background-color: #cec8c8;
+    cursor: pointer;
+    border-color: black;
+}
+.display:hover{
+    background-color: #7a4b4b ;
+}
+.content1{
+    width:50%;
+    height:400px; 
+    float: left;  
+}
+.display1{
+    width: 314px;
+    height: 300px;
+    margin-left:217px;
+    margin-top: 65px;
+    float: left;
+    border-radius: 28px;
+    background-color: #cec8c8;
+    cursor: pointer;
+    border-color: black;
+}
+.display1:hover{
+    background-color: #7a4b4b ;
+}
+.written{
+    color: #8a6464;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 50px;
+    font-style:oblique;
+}
+.written1{
+    color: #272222;
+    font-weight: bold;
+    font-size: 24px;
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(73, 66, 66);
+}
